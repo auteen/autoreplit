@@ -10,9 +10,9 @@ sites:
     url: https://hello-repl.auteen.repl.co
 
 
-#有域名的按照以下模版填写
 status-website: 
-    cname: repl.co
+    #cname: demo.upptime.js.org (移除) 
+    baseUrl: /upptime
     
 #自定义状态页面的navbar名称与链接
 navbar: 
