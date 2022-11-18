@@ -4,19 +4,19 @@
     "url": "https://hello-repl.auteen.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3204,
-    "timeDay": 3204,
-    "timeWeek": 3204,
-    "timeMonth": 3204,
-    "timeYear": 3204,
+    "status": "up",
+    "uptime": "96.33%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "96.33%",
+    "time": 2523,
+    "timeDay": 2523,
+    "timeWeek": 2523,
+    "timeMonth": 2523,
+    "timeYear": 2523,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 9
     }
   }
 ]
