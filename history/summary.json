@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
     "status": "up",
-    "uptime": "96.33%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "96.33%",
-    "uptimeYear": "96.33%",
-    "time": 2523,
-    "timeDay": 2523,
-    "timeWeek": 2523,
-    "timeMonth": 2523,
-    "timeYear": 2523,
-    "dailyMinutesDown": {
-      "2022-11-18": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2073,
+    "timeDay": 2073,
+    "timeWeek": 2073,
+    "timeMonth": 2073,
+    "timeYear": 2073,
+    "dailyMinutesDown": {}
   }
 ]
