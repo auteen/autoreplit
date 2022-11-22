@@ -1,7 +1,7 @@
 url: https://hello-repl.auteen.repl.co
-status: up
-code: 200
-responseTime: 471
-lastUpdated: 2022-11-21T23:07:05.849Z
+status: down
+code: 429
+responseTime: 3629
+lastUpdated: 2022-11-22T21:47:06.691Z
 startTime: Fri Nov 18 2022 13:54:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
