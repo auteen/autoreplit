@@ -4,7 +4,7 @@
     "url": "https://hello-repl.auteen.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2924,
     "timeYear": 2924,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-11-26": 28,
       "2022-11-21": 41,
       "2022-11-20": 17,
