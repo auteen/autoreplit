@@ -8,6 +8,8 @@ repo: autoreplit
 sites: 
   - name: repl.co
     url: https://hello-repl.auteen.repl.co
+  - name: replTrojan
+    url: https://replit-trojan.auteen.repl.co
 
 
 status-website: 
