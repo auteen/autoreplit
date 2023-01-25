@@ -11,7 +11,9 @@ sites:
   - name: replTrojan
     url: https://replit-trojan.auteen.repl.co
   - name: vlessray
-    url: vlessray.auteen.repl.co
+    url: https://vlessray.auteen.repl.co
+  - name: doprax
+    url: https://dop.nile.vip/
 
 status-website: 
     #cname: demo.upptime.js.org (移除) 
