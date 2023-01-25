@@ -14,7 +14,8 @@ sites:
     url: https://vlessray.auteen.repl.co
   - name: doprax
     url: https://dop.nile.vip/
-
+  - name: glitch
+    url: https://congruous-calico-wedge.glitch.me/
 status-website: 
     #cname: demo.upptime.js.org (移除) 
     baseUrl: /upptime
