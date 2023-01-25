@@ -10,7 +10,8 @@ sites:
     url: https://hello-repl.auteen.repl.co
   - name: replTrojan
     url: https://replit-trojan.auteen.repl.co
-
+  - name: vlessray
+    url: vlessray.auteen.repl.co
 
 status-website: 
     #cname: demo.upptime.js.org (移除) 
