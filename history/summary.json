@@ -52,7 +52,7 @@
     "timeMonth": 933,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2023-01-26": 1316,
+      "2023-01-26": 1348,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
@@ -111,7 +111,7 @@
     "timeMonth": 7026,
     "timeYear": 7026,
     "dailyMinutesDown": {
-      "2023-01-26": 1316,
+      "2023-01-26": 1348,
       "2023-01-25": 713
     }
   },
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dop.nile.vip.ico",
     "slug": "doprax",
     "status": "down",
-    "uptime": "80.82%",
-    "uptimeDay": "73.00%",
-    "uptimeWeek": "80.82%",
-    "uptimeMonth": "80.82%",
-    "uptimeYear": "80.82%",
+    "uptime": "79.57%",
+    "uptimeDay": "70.80%",
+    "uptimeWeek": "79.57%",
+    "uptimeMonth": "79.57%",
+    "uptimeYear": "79.57%",
     "time": 907,
     "timeDay": 919,
     "timeWeek": 907,
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2023-01-26": 389
+      "2023-01-26": 421
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://congruous-calico-wedge.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/congruous-calico-wedge.glitch.me.ico",
     "slug": "glitch",
-    "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.07%",
-    "time": 147,
-    "timeDay": 165,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "96.51%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
+    "time": 2023,
+    "timeDay": 2413,
+    "timeWeek": 2023,
+    "timeMonth": 2023,
+    "timeYear": 2023,
     "dailyMinutesDown": {
-      "2023-01-26": 38
+      "2023-01-26": 70
     }
   }
 ]
