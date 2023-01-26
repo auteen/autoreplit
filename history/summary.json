@@ -13,7 +13,7 @@
     "time": 2313,
     "timeDay": 6773,
     "timeWeek": 2551,
-    "timeMonth": 2358,
+    "timeMonth": 2391,
     "timeYear": 2313,
     "dailyMinutesDown": {
       "2023-01-26": 39,
@@ -52,7 +52,7 @@
     "timeMonth": 933,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2023-01-26": 1289,
+      "2023-01-26": 1297,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
@@ -111,7 +111,7 @@
     "timeMonth": 7026,
     "timeYear": 7026,
     "dailyMinutesDown": {
-      "2023-01-26": 1289,
+      "2023-01-26": 1297,
       "2023-01-25": 713
     }
   },
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dop.nile.vip.ico",
     "slug": "doprax",
     "status": "down",
-    "uptime": "81.94%",
-    "uptimeDay": "74.92%",
-    "uptimeWeek": "81.94%",
-    "uptimeMonth": "81.94%",
-    "uptimeYear": "81.94%",
+    "uptime": "81.59%",
+    "uptimeDay": "74.33%",
+    "uptimeWeek": "81.59%",
+    "uptimeMonth": "81.59%",
+    "uptimeYear": "81.59%",
     "time": 907,
     "timeDay": 919,
     "timeWeek": 907,
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2023-01-26": 361
+      "2023-01-26": 370
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://congruous-calico-wedge.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/congruous-calico-wedge.glitch.me.ico",
     "slug": "glitch",
-    "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "98.04%",
-    "time": 125,
-    "timeDay": 142,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "status": "up",
+    "uptime": "97.62%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
+    "time": 147,
+    "timeDay": 165,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-01-26": 38
+      "2023-01-26": 47
     }
   }
 ]
