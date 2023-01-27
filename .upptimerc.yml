@@ -16,6 +16,10 @@ sites:
     url: https://dop.nile.vip/
   - name: glitch
     url: https://congruous-calico-wedge.glitch.me/
+  - name: patr-sg
+    url: https://80-a75206f2951d4348af86e618f7310f19.patr.cloud
+    
+    
 status-website: 
     #cname: demo.upptime.js.org (移除) 
     baseUrl: /upptime
