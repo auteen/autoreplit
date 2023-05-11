@@ -4,19 +4,19 @@
     "url": "https://hello-repl.auteen.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
-    "status": "up",
-    "uptime": "77.99%",
-    "uptimeDay": "26.46%",
-    "uptimeWeek": "50.60%",
-    "uptimeMonth": "48.93%",
-    "uptimeYear": "77.99%",
-    "time": 3339,
-    "timeDay": 4006,
-    "timeWeek": 3757,
-    "timeMonth": 4395,
-    "timeYear": 3339,
+    "status": "down",
+    "uptime": "78.14%",
+    "uptimeDay": "26.35%",
+    "uptimeWeek": "50.59%",
+    "uptimeMonth": "48.94%",
+    "uptimeYear": "78.14%",
+    "time": 3332,
+    "timeDay": 3409,
+    "timeWeek": 3642,
+    "timeMonth": 4362,
+    "timeYear": 3332,
     "dailyMinutesDown": {
-      "2023-05-11": 1059,
+      "2023-05-11": 1061,
       "2023-05-10": 108,
       "2023-05-09": 1182,
       "2023-05-08": 1333,
@@ -74,8 +74,7 @@
       "2023-03-13": 1177,
       "2023-03-12": 1334,
       "2023-03-11": 1413,
-      "2023-03-10": 1063,
-      "2023-03-09": 312
+      "2023-03-10": 993
     }
   },
   {
@@ -95,7 +94,7 @@
     "timeMonth": 478,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2023-05-11": 1232,
+      "2023-05-11": 1241,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -248,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/renderray.onrender.com.ico",
     "slug": "render",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.89%",
     "time": 807,
     "timeDay": 868,
     "timeWeek": 799,
     "timeMonth": 809,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2023-05-11": 108
+      "2023-05-11": 116
     }
   },
   {
@@ -271,7 +270,7 @@
     "uptime": "56.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.13%",
+    "uptimeMonth": "39.11%",
     "uptimeYear": "56.56%",
     "time": 3000,
     "timeDay": 0,
@@ -279,7 +278,7 @@
     "timeMonth": 2574,
     "timeYear": 3000,
     "dailyMinutesDown": {
-      "2023-05-11": 1232,
+      "2023-05-11": 1241,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -377,7 +376,7 @@
     "timeMonth": 3142,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2023-05-11": 1232,
+      "2023-05-11": 1241,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
