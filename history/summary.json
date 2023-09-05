@@ -4,19 +4,19 @@
     "url": "https://hello-repl.auteen.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
-    "status": "up",
+    "status": "down",
     "uptime": "94.28%",
-    "uptimeDay": "22.64%",
-    "uptimeWeek": "57.28%",
-    "uptimeMonth": "45.35%",
+    "uptimeDay": "23.16%",
+    "uptimeWeek": "57.26%",
+    "uptimeMonth": "45.38%",
     "uptimeYear": "94.28%",
-    "time": 4110,
-    "timeDay": 6253,
-    "timeWeek": 5804,
-    "timeMonth": 5189,
-    "timeYear": 4110,
+    "time": 4107,
+    "timeDay": 5581,
+    "timeWeek": 5711,
+    "timeMonth": 5170,
+    "timeYear": 4107,
     "dailyMinutesDown": {
-      "2023-09-05": 343,
+      "2023-09-05": 345,
       "2023-09-04": 975,
       "2023-09-03": 783,
       "2023-09-02": 397,
@@ -45,7 +45,7 @@
       "2023-08-10": 927,
       "2023-08-09": 581,
       "2023-08-08": 869,
-      "2023-08-07": 477
+      "2023-08-07": 460
     }
   },
   {
@@ -65,7 +65,7 @@
     "timeMonth": 946,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-09-05": 345,
+      "2023-09-05": 354,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -346,7 +346,7 @@
     "timeMonth": 456,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2023-09-05": 345,
+      "2023-09-05": 354,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 3038,
     "dailyMinutesDown": {
-      "2023-09-05": 345,
+      "2023-09-05": 354,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -680,7 +680,7 @@
     "timeMonth": 230,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-09-05": 345,
+      "2023-09-05": 354,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
