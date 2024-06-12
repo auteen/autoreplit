@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.38%",
     "time": 4502,
-    "timeDay": 530,
-    "timeWeek": 783,
-    "timeMonth": 828,
+    "timeDay": 654,
+    "timeWeek": 792,
+    "timeMonth": 823,
     "timeYear": 4555,
     "dailyMinutesDown": {
       "2024-02-07": 1365,
@@ -95,16 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit-trojan.auteen.repl.co.ico",
     "slug": "repl-trojan",
     "status": "up",
-    "uptime": "25.17%",
+    "uptime": "25.19%",
     "uptimeDay": "95.04%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "37.05%",
-    "time": 685,
-    "timeDay": 647,
-    "timeWeek": 719,
-    "timeMonth": 703,
-    "timeYear": 707,
+    "uptimeYear": "37.09%",
+    "time": 686,
+    "timeDay": 566,
+    "timeWeek": 711,
+    "timeMonth": 699,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2024-06-11": 71,
       "2024-02-07": 1365,
@@ -336,8 +336,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -351,13 +350,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 449,
-    "timeDay": 170,
-    "timeWeek": 173,
+    "time": 448,
+    "timeDay": 155,
+    "timeWeek": 174,
     "timeMonth": 204,
-    "timeYear": 288,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-06-11": 1285,
+      "2024-06-12": 52,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -720,8 +720,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -735,13 +734,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2170,
+    "time": 2188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 1285,
+      "2024-06-12": 53,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1104,8 +1104,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -1114,18 +1113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/congruous-calico-wedge.glitch.me.ico",
     "slug": "glitch",
     "status": "down",
-    "uptime": "8.10%",
+    "uptime": "8.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 351,
-    "timeDay": 62,
-    "timeWeek": 164,
-    "timeMonth": 203,
-    "timeYear": 211,
+    "timeDay": 130,
+    "timeWeek": 173,
+    "timeMonth": 197,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-06-11": 1285,
+      "2024-06-12": 53,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1488,8 +1488,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   }
 ]
