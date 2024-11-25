@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
     "status": "up",
-    "uptime": "93.25%",
+    "uptime": "93.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.34%",
-    "time": 3095,
-    "timeDay": 908,
-    "timeWeek": 844,
-    "timeMonth": 850,
-    "timeYear": 2518,
+    "uptimeYear": "87.61%",
+    "time": 3083,
+    "timeDay": 549,
+    "timeWeek": 836,
+    "timeMonth": 841,
+    "timeYear": 2522,
     "dailyMinutesDown": {
       "2024-09-27": 32,
       "2024-02-07": 1365,
@@ -77,8 +77,7 @@
       "2023-12-01": 521,
       "2023-11-30": 1403,
       "2023-11-28": 39,
-      "2023-11-27": 337,
-      "2023-11-26": 58
+      "2023-11-27": 337
     }
   },
   {
@@ -87,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit-trojan.auteen.repl.co.ico",
     "slug": "repl-trojan",
     "status": "up",
-    "uptime": "42.66%",
+    "uptime": "42.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.30%",
-    "time": 742,
-    "timeDay": 811,
-    "timeWeek": 708,
-    "timeMonth": 706,
-    "timeYear": 751,
+    "uptimeYear": "82.57%",
+    "time": 743,
+    "timeDay": 1003,
+    "timeWeek": 779,
+    "timeMonth": 691,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2024-06-11": 71,
       "2024-02-07": 1365,
@@ -162,8 +161,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -172,18 +170,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/renderray.onrender.com.ico",
     "slug": "render",
     "status": "down",
-    "uptime": "15.14%",
+    "uptime": "15.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 246,
-    "timeDay": 206,
-    "timeWeek": 225,
+    "time": 245,
+    "timeDay": 168,
+    "timeWeek": 197,
     "timeMonth": 214,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-11-24": 70,
+      "2024-11-25": 66,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -546,8 +545,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -556,7 +554,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dop.nile.vip.ico",
     "slug": "doprax",
     "status": "down",
-    "uptime": "9.00%",
+    "uptime": "8.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -567,7 +565,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-24": 70,
+      "2024-11-25": 66,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -930,8 +929,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -940,18 +938,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/congruous-calico-wedge.glitch.me.ico",
     "slug": "glitch",
     "status": "down",
-    "uptime": "6.10%",
+    "uptime": "6.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 220,
-    "timeDay": 175,
-    "timeWeek": 261,
-    "timeMonth": 259,
+    "time": 219,
+    "timeDay": 132,
+    "timeWeek": 254,
+    "timeMonth": 249,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-11-24": 70,
+      "2024-11-25": 66,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -1314,8 +1313,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   }
 ]
