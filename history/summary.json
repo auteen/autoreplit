@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello-repl.auteen.repl.co.ico",
     "slug": "repl-co",
     "status": "down",
-    "uptime": "91.18%",
+    "uptime": "91.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.18%",
-    "uptimeYear": "85.27%",
-    "time": 2707,
+    "uptimeMonth": "40.90%",
+    "uptimeYear": "85.12%",
+    "time": 2711,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 846,
-    "timeYear": 1963,
+    "timeMonth": 868,
+    "timeYear": 1954,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-14": 65,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -78,8 +79,7 @@
       "2023-12-19": 849,
       "2023-12-18": 998,
       "2023-12-17": 535,
-      "2023-12-16": 1123,
-      "2023-12-15": 1040
+      "2023-12-16": 1123
     }
   },
   {
@@ -88,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/replit-trojan.auteen.repl.co.ico",
     "slug": "repl-trojan",
     "status": "down",
-    "uptime": "41.82%",
+    "uptime": "41.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.18%",
+    "uptimeMonth": "40.90%",
     "uptimeYear": "82.85%",
     "time": 726,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 736,
-    "timeYear": 771,
+    "timeMonth": 755,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-14": 65,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -162,8 +163,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   },
   {
@@ -172,18 +172,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/renderray.onrender.com.ico",
     "slug": "render",
     "status": "down",
-    "uptime": "14.71%",
+    "uptime": "14.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 231,
-    "timeDay": 243,
-    "timeWeek": 203,
-    "timeMonth": 205,
+    "time": 230,
+    "timeDay": 247,
+    "timeWeek": 213,
+    "timeMonth": 203,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-14": 65,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -546,8 +547,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   },
   {
@@ -556,7 +556,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dop.nile.vip.ico",
     "slug": "doprax",
     "status": "down",
-    "uptime": "8.75%",
+    "uptime": "8.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -567,7 +567,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-14": 65,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -930,8 +931,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   },
   {
@@ -940,18 +940,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/congruous-calico-wedge.glitch.me.ico",
     "slug": "glitch",
     "status": "down",
-    "uptime": "5.93%",
+    "uptime": "5.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 220,
-    "timeDay": 210,
-    "timeWeek": 199,
-    "timeMonth": 225,
+    "timeDay": 195,
+    "timeWeek": 202,
+    "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-12-13": 68,
+      "2024-12-14": 65,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -1314,8 +1315,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   }
 ]
